@@ -1,0 +1,28 @@
+{
+  "name": "hideShowPassword",
+  "version": "1.0.2",
+  "main": [
+    "hideShowPassword.js",
+    "hideShowPassword.min.js",
+    "img/*"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "vendor"
+  ],
+  "homepage": "https://github.com/cloudfour/hideShowPassword",
+  "_release": "1.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.2",
+    "commit": "ac33a3f0f3839a6dfef91b93ae745d274c40d4fc"
+  },
+  "_source": "git://github.com/cloudfour/hideShowPassword.git",
+  "_target": "~1.0.2",
+  "_originalSource": "hideShowPassword",
+  "_direct": true
+}
